@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "アンサー",
+  "base_artist": "Sound Schedule",
+  "createdAt": "2025-12-23T01:33:23.674613Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "アンサー",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": true,
+      "path": "select/01_アンサー_BUMP_OF_CHICKEN.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Answer Waltz Romance [アンサー・ワルツ・ロマンス]",
+      "artist": "Haru Nemuri",
+      "has_synced": false,
+      "path": "select/02_Answer_Waltz_Romance_[アンサー・ワルツ・ロマンス]_Haru_Nemuri.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Answer [アンサー]",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": true,
+      "path": "select/03_Answer_[アンサー]_BUMP_OF_CHICKEN.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "アンサー",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": true,
+      "path": "select/04_アンサー_BUMP_OF_CHICKEN.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "アンサー",
+      "artist": "花譜",
+      "has_synced": false,
+      "path": "select/05_アンサー_花譜.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "アンサー",
+      "artist": "Harumakigohan",
+      "has_synced": true,
+      "path": "select/06_アンサー_Harumakigohan.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "アンサー",
+      "artist": "Harumaki Gohan",
+      "has_synced": true,
+      "path": "select/07_アンサー_Harumaki_Gohan.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "アンサー",
+      "artist": "花譜",
+      "has_synced": true,
+      "path": "select/08_アンサー_花譜.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "アンサー・ワルツ・ロマンス",
+      "artist": "Haru Nemuri",
+      "has_synced": true,
+      "path": "select/09_アンサー・ワルツ・ロマンス_Haru_Nemuri.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "アンサー(楽園市街 Remix)",
+      "artist": "花譜",
+      "has_synced": true,
+      "path": "select/10_アンサー(楽園市街_Remix)_花譜.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "アンサー",
+      "artist": "Dixie Flatline feat. 巡音ルカ",
+      "has_synced": true,
+      "path": "select/11_アンサー_Dixie_Flatline_feat._巡音ルカ.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "アンサー",
+      "artist": "Dixie Flatline",
+      "has_synced": true,
+      "path": "select/12_アンサー_Dixie_Flatline.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "アンサー",
+      "artist": "はるまきごはん",
+      "has_synced": true,
+      "path": "select/13_アンサー_はるまきごはん.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Answer  アンサー - BUMP OF CHICKEN",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": true,
+      "path": "select/14_Answer_アンサー_-_BUMP_OF_CHICKEN_BUMP_OF_CHICKEN.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "アンサー",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": false,
+      "path": "select/15_アンサー_BUMP_OF_CHICKEN.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "アンサー",
+      "artist": "はるまきごはん feat. 初音ミク",
+      "has_synced": true,
+      "path": "select/16_アンサー_はるまきごはん_feat._初音ミク.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "アンサー",
+      "artist": "Sound Schedule",
+      "has_synced": false,
+      "path": "select/pl_01_アンサー_Sound_Schedule.txt"
+    }
+  ]
+}
